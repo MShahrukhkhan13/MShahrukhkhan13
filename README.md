@@ -52,4 +52,7 @@ The Walking classification feature is currently experimental. The threshold valu
 ## Example Output
 The output consists of a video stream with bounding boxes around detected individuals and labels indicating their posture (e.g., Standing, Sitting, Walking - experimental).
 
+## Licensing
+This script uses the YOLOv8 model by Ultralytics, which may require users to comply with AGPL-3.0 when downloading...
+
 
